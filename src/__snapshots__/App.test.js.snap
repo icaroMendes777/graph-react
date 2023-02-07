@@ -1,0 +1,467 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Snapshot testing suite Matches DOM Snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="intro"
+  >
+    <h1>
+      Balanço Anual:
+    </h1>
+  </div>
+  <div
+    className="months"
+  >
+    <form>
+      <label
+        className="padding_03"
+      >
+        <div
+          className="month_name_form"
+        >
+          janeiro
+        </div>
+        <input
+          name="janeiro"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          type="text"
+          value={275}
+        />
+      </label>
+      <label
+        className="padding_03"
+      >
+        <div
+          className="month_name_form"
+        >
+          fevereiro
+        </div>
+        <input
+          name="fevereiro"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          type="text"
+          value={120}
+        />
+      </label>
+      <label
+        className="padding_03"
+      >
+        <div
+          className="month_name_form"
+        >
+          março
+        </div>
+        <input
+          name="março"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          type="text"
+          value={180}
+        />
+      </label>
+      <label
+        className="padding_03"
+      >
+        <div
+          className="month_name_form"
+        >
+          abril
+        </div>
+        <input
+          name="abril"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          type="text"
+          value={450}
+        />
+      </label>
+      <label
+        className="padding_03"
+      >
+        <div
+          className="month_name_form"
+        >
+          maio
+        </div>
+        <input
+          name="maio"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          type="text"
+          value={250}
+        />
+      </label>
+      <label
+        className="padding_03"
+      >
+        <div
+          className="month_name_form"
+        >
+          junho
+        </div>
+        <input
+          name="junho"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          type="text"
+          value={500}
+        />
+      </label>
+      <label
+        className="padding_03"
+      >
+        <div
+          className="month_name_form"
+        >
+          julho
+        </div>
+        <input
+          name="julho"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          type="text"
+          value={450}
+        />
+      </label>
+      <label
+        className="padding_03"
+      >
+        <div
+          className="month_name_form"
+        >
+          agosto
+        </div>
+        <input
+          name="agosto"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          type="text"
+          value={700}
+        />
+      </label>
+      <label
+        className="padding_03"
+      >
+        <div
+          className="month_name_form"
+        >
+          setembro
+        </div>
+        <input
+          name="setembro"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          type="text"
+          value={350}
+        />
+      </label>
+      <label
+        className="padding_03"
+      >
+        <div
+          className="month_name_form"
+        >
+          outubro
+        </div>
+        <input
+          name="outubro"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          type="text"
+          value={300}
+        />
+      </label>
+      <label
+        className="padding_03"
+      >
+        <div
+          className="month_name_form"
+        >
+          novembro
+        </div>
+        <input
+          name="novembro"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          type="text"
+          value={200}
+        />
+      </label>
+      <label
+        className="padding_03"
+      >
+        <div
+          className="month_name_form"
+        >
+          dezembro
+        </div>
+        <input
+          name="dezembro"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          type="text"
+          value={75}
+        />
+      </label>
+    </form>
+    <div
+      className="padding_03"
+    >
+      <p>
+        Balanço total: R$
+        <b>
+           
+          3850
+          ,00
+        </b>
+      </p>
+    </div>
+  </div>
+  <div
+    className="graph"
+  >
+    <div
+      className="wrap_month Column"
+    >
+      <div
+        className="graph_month"
+        style={
+          Object {
+            "backgroundColor": "blue",
+            "height": "157.14285714285714px",
+          }
+        }
+        title="janeiro- R$275"
+      />
+      <div
+        className="month_name_graph padding_03"
+      >
+        jan.
+      </div>
+    </div>
+    <div
+      className="wrap_month Column"
+    >
+      <div
+        className="graph_month"
+        style={
+          Object {
+            "backgroundColor": "green",
+            "height": "68.57142857142857px",
+          }
+        }
+        title="fevereiro- R$120"
+      />
+      <div
+        className="month_name_graph padding_03"
+      >
+        fev.
+      </div>
+    </div>
+    <div
+      className="wrap_month Column"
+    >
+      <div
+        className="graph_month"
+        style={
+          Object {
+            "backgroundColor": "red",
+            "height": "102.85714285714286px",
+          }
+        }
+        title="março- R$180"
+      />
+      <div
+        className="month_name_graph padding_03"
+      >
+        mar.
+      </div>
+    </div>
+    <div
+      className="wrap_month Column"
+    >
+      <div
+        className="graph_month"
+        style={
+          Object {
+            "backgroundColor": "blue",
+            "height": "257.14285714285717px",
+          }
+        }
+        title="abril- R$450"
+      />
+      <div
+        className="month_name_graph padding_03"
+      >
+        abr.
+      </div>
+    </div>
+    <div
+      className="wrap_month Column"
+    >
+      <div
+        className="graph_month"
+        style={
+          Object {
+            "backgroundColor": "green",
+            "height": "142.85714285714286px",
+          }
+        }
+        title="maio- R$250"
+      />
+      <div
+        className="month_name_graph padding_03"
+      >
+        mai.
+      </div>
+    </div>
+    <div
+      className="wrap_month Column"
+    >
+      <div
+        className="graph_month"
+        style={
+          Object {
+            "backgroundColor": "red",
+            "height": "285.7142857142857px",
+          }
+        }
+        title="junho- R$500"
+      />
+      <div
+        className="month_name_graph padding_03"
+      >
+        jun.
+      </div>
+    </div>
+    <div
+      className="wrap_month Column"
+    >
+      <div
+        className="graph_month"
+        style={
+          Object {
+            "backgroundColor": "blue",
+            "height": "257.14285714285717px",
+          }
+        }
+        title="julho- R$450"
+      />
+      <div
+        className="month_name_graph padding_03"
+      >
+        jul.
+      </div>
+    </div>
+    <div
+      className="wrap_month Column"
+    >
+      <div
+        className="graph_month"
+        style={
+          Object {
+            "backgroundColor": "green",
+            "height": "400px",
+          }
+        }
+        title="agosto- R$700"
+      />
+      <div
+        className="month_name_graph padding_03"
+      >
+        ago.
+      </div>
+    </div>
+    <div
+      className="wrap_month Column"
+    >
+      <div
+        className="graph_month"
+        style={
+          Object {
+            "backgroundColor": "red",
+            "height": "200px",
+          }
+        }
+        title="setembro- R$350"
+      />
+      <div
+        className="month_name_graph padding_03"
+      >
+        set.
+      </div>
+    </div>
+    <div
+      className="wrap_month Column"
+    >
+      <div
+        className="graph_month"
+        style={
+          Object {
+            "backgroundColor": "blue",
+            "height": "171.42857142857142px",
+          }
+        }
+        title="outubro- R$300"
+      />
+      <div
+        className="month_name_graph padding_03"
+      >
+        out.
+      </div>
+    </div>
+    <div
+      className="wrap_month Column"
+    >
+      <div
+        className="graph_month"
+        style={
+          Object {
+            "backgroundColor": "green",
+            "height": "114.28571428571429px",
+          }
+        }
+        title="novembro- R$200"
+      />
+      <div
+        className="month_name_graph padding_03"
+      >
+        nov.
+      </div>
+    </div>
+    <div
+      className="wrap_month Column"
+    >
+      <div
+        className="graph_month"
+        style={
+          Object {
+            "backgroundColor": "red",
+            "height": "42.857142857142854px",
+          }
+        }
+        title="dezembro- R$75"
+      />
+      <div
+        className="month_name_graph padding_03"
+      >
+        dez.
+      </div>
+    </div>
+  </div>
+  <footer>
+    <small>
+      App desenvolvido por 
+      <a
+        href="http://icaromendes.epizy.com/"
+      >
+        Icaro Mendes.
+      </a>
+    </small>
+  </footer>
+</div>
+`;
